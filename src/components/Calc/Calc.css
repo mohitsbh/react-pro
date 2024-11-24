@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  color: black;
+  background: rgb(133, 125, 125);
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color: antiquewhite;
+  color: black;
+}
+
+.btn_1 {
+  background-color: rgba(0, 0, 0, 0.753);
+  color: white;
+}
+
